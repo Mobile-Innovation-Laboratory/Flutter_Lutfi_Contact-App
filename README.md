@@ -11,10 +11,18 @@ This Flutter Contact App is design help users easily manage tehir contacts using
 after you clone or download the aplication, connect the project with your Firebase account and make a new project in Firebase and setup the Firebase Auth for Flutter Project.
 
 ## ScreenShot 📸
+- Splash Screen
 ![Splash Screen](/lib/assets/splashScreen.png)
-![Login Screen](/lib/assets/loginImage.png)
-![Register Screen](/lib/assets/registerImage.png)
-![Home Screen](/lib/assets/homeImage.png)
-![Drawe Screen](/lib/assets/drawerImage.png)
 
+- Login Screen
+![Login Screen](/lib/assets/loginImage.png)
+
+- Register Screen
+![Register Screen](/lib/assets/registerImage.png)
+
+- Home Screen
+![Home Screen](/lib/assets/homeImage.png)
+
+- Drawer
+![Drawer Screen](/lib/assets/drawerImage.png)
 
